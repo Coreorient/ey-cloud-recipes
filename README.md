@@ -1,6 +1,10 @@
-ey-cloud-recipes
-===============
-This is a repository of some basic recipes for EY-Cloud using chef to deploy, setup, and configure common tools for Rails applications.
+ey-cloud-recipes for Piggybaggy
+===============================
+This is a modified tree of Engine Yard deployment recipes,
+as used in Piggybaggy application instances.
+
+Modifications:
+* PostGIS 2 extension enabled on the PostgreSQL database.
 
 Installation
 ============
